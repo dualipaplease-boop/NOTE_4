@@ -1,0 +1,1 @@
+normal txp client server communication using socket (just text msgs)
